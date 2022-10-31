@@ -2,7 +2,11 @@
 
 ## Construido con 🛠️
 
-* [null](https://null.com) - null
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - HTML
+* [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - CSS
+* [BS](https://getbootstrap.com) - BOOTSTRAP
+* [JS](https://www.javascript.com) - JS
+* [REACT](https://es.reactjs.org) - REACT
 
 
 ## Autores ✒️
