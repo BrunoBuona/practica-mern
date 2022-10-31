@@ -1,4 +1,4 @@
-# My Itinerary
+# Practica MERN
 
 ## Construido con 🛠️
 
